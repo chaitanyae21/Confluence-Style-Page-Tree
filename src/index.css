@@ -1,0 +1,7 @@
+/* Global styles for the Confluence-style page tree app. */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
