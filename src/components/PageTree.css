@@ -1,0 +1,25 @@
+.page-tree {
+  padding-left: 0;
+}
+
+.page-node {
+  margin-left: 1rem;
+}
+
+.node-header {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.toggle-icon {
+  width: 1em;
+  display: inline-block;
+  margin-right: 0.3em;
+}
+
+.children {
+  margin-left: 1rem;
+  border-left: 1px solid #ccc;
+  padding-left: 0.5rem;
+}
